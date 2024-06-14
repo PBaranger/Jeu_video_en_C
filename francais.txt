@@ -1,0 +1,123 @@
+Choisis ton nom :
+ㅤ❖       ~~~       ❖
+, bienvenue !
+En 2077, les hommes et les femmes de la Terre vivent en symbiose avec toutes technologies : robots intelligents, portables holographiques, ... Une ère à envier au passé puisqu'elle est la plus équilibrée avec l'environnement, malgré ce monde fait de technologies surpuissantes, la société a trouvé le moyen de recycler tout et permet à la nature de pousser partout ! La Terre n'a jamais été aussi belle, aussi verte, tous les problèmes liés à la pollution ont été réduit à néant. 
+C'est alors, que toi, terrien(ne) de cette ère, tu es avec tes amis humains et robots dans le plus beau parc de Calais, entouré de hauts arbres et de fleurs de toutes couleurs.
+Discutant et riant, le ciel semble s'assombrir, il n'avait pas prévu de pluie ? Des nuages noirs s'activent au dessus de ta tête mais cela ne semble pas inquiéter tes amis...BOUM un éclair ! Puis, le noir total, est-il tombé sur ta tête ?
+Quelques heures plus tard, tu te réveilles lentement, ne te souvenant pas de ce qu'il s'est passé seulement que tu riais dans un parc. Tu te relèves et ne sais pas où tu es, entouré de débris abîmés, rouillés et tellement poussiéreux qu'on ne sait même plus ce que c'est. De hauts murs métalliques délabrés t'entourent. Seules les lumières d'un ciel jaune apocalyptique éclairent à peine ton chemin. Tu vois différents couloirs et décides d'explorer ce lieu, cherchant une potentielle sortie à ce cauchemar.
+ㅤ❖       ~~~       ❖
+Tu es toujours dans le labyrinthe.
+.
+ㅤ❖       ~~~       ❖
+~Durant l'aventure~
+Cela fait plusieurs heures que tu es coincé, les objets éparpillés t'interpellent de plus en plus, comme si tu les avais déjà vu...
+Tu te rends compte que les objets ressemblent fortement à ceux qui existaient dans ton monde, que tu utilisais au quotidien...Même un corps de robot inanimé ?!
+Tu avances pendant environ une minute à travers tout ces décombres qui t'entourent.
+Le long du chemin tu remarques que l’atmosphère est différente de celle de d'habitude. Mais tu n’arrives pas à déterminer si c'est rassurant ou angoissant.
+~Fin heureuse~
+ une lumière d'un blanc immaculé se trouve au fond de ce couloir ! Tu cours vers elle. Tu as l'impression de courir dans un vide total, la lumière t'éblouit trop...
+ !! Réveille toi !❞ Assoupi dans l'herbe du parc, ton ami Eva02 (robot) n'a pas l'air inquiète, plutôt moqueuse même. Tu t'es apparemment endormi lors du pique-nique. Tout ceci n'était alors qu'un rêve ? Il s'efface de ta mémoire peu à peu et ta vie paisible reprend son cours.
+『 Fin, tu as réussi ☀ 』
+ㅤ❖       ~~~       ❖
+『 Merci d'avoir jouer ! 』
+~Fin malheureuse~
+ ,tu arrives à une impasse, tu t'approches d'un robot qui semble produire un son grésillant. Tu le redresses, ses yeux s'illuminent à peine et clignotent, il a l'air effrayé et tente de parler ❝..secou..,  laissez-moi-ii-ii.. , arRRêteZ-ez-EeEzZ !!❞, la lueur dans ses yeux s'est éteinte et il devient inerte. Une orde de robots tous abîmés se réveille avançant avec lourdeur vers vous, ils vous encerclent ❝Aidez...nouuus!❞, ❝Pourquoi, brûlez-nouu-u-uuus??❞, tous se jettent sur toi et tu ne peux plus bouger, choqué par ce qu'il semble être le futur de ton monde la folie s'empare de toi et tu es condamné à errer à jamais dans ce labyrinthe infini.
+『 Fin, tu as échoué ☠ 』
+ㅤ❖       ~~~       ❖
+『 Merci d'avoir jouer ! 』
+C'est un mur pauvre fou !
+Erreur : commande inconnue !
+Bravo tu gagnes de la vie :
+Tu peux allerㅤ
+au nord (N)
+au sud (S)
+à l'est (E)
+à l'ouest (O)
+C'est une bombe !!
+Oh nion, tu perds un coeur...Aïe...
+Il y a quelque chose sur le sol, une sorte de vieille carte. De drôles de symboles y sont inscrits à certains endroits, cela peut-être utile !
+.
+.
+.
+.
+.
+.
+Tu viens d'être téléporté à l'autre extrémité du labyrinthe.
+Tu trouves une carte par terre. Tu la ramasses et l'annalyse.
+ligne en plus
+Tu te retrouves face à un robot assez amoché qui te dit : ❝Vous avez l'aire d'avoir de l'expérience. Si vous gagnez ce combat je vous laisserez passer.❞
+Tu vois un objet étrange par terre, souhaites-tu le ramasser ?
+oui (O)
+non (N)
+.
+Tu ne ramasses pas l'objet et poursuis ton chemin.
+Tu vas te battre contre le robot, souhaites-tu utiliser un objet de ton inventaire ?
+oui (O)
+non (N)
+Tu vas te battre à l'aide de ta force.
+Souhaites-tu lui donné un coup de pied (1) ou lui donnée un coup de poing (2) ?
+.
+Bravo tu as battu le robot, tu peux continuer ton chemin.
+.
+.
+.
+.
+.
+Le robot vient de t'attaquer. Tu viens de perdre de un peu de ta force.
+Dommage, tu viens de perdre contre un simple robot. Continue ton chemin.
+Tu n'as pas d'objet dans ton inventaire.
+Tu te retrouves face à un mur. Une phrase est écrite dessus...c'est une énigme...il faut que tu la résolves pour passer...
+Un père et un fils ont à eux deux 36 ans.
+Sachant que le père a 30 ans de plus que le fils, quel âge a le fils ?
+Rentre ta réponse à l'aide des chiffres présents sur le mur.
+Tu as trouvé la bonne réponse. Le mur s'ouvre, tu peux continuer ton chemin.
+Tu n'as pas réussi ! Le mur explose ! Tu perds une vie.
+Oh non, tu perds un coeur...Aïe...
+Tu ramasses l'objet et remarques que c'est un sabre laser.
+Tu ramasses l'objet et remarques que c'est un couteau.
+Tu ramasses l'objet et remarques que c'est un pistolet.
+/ couteau (C) / 
+/ pistolet (P) /
+/ sabre laser (S) /
+Inventaire :
+Erreur : object introuvable !
+『 Tu es mort ☠ 』
+Tu as encore des vies.
+Souhaites-tu essayer de nouveau ?
+oui (O)
+non (N)
+.
+Tu n'as pas réussi ! Le mur explose ! Tu perds une vie.
+BOUM !!! Que vient-il de se passer ?? L'objet que tu viens de récupérer était en fait une bombe qui viens d'exploser.
+Tu te retrouves face à un mur. Il y a un dessin sur sa surface, en te rapprochant tu remarques qu'une phrase y est également inscrite :
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                     #                     #                     #                     #
+#                     #                     #                     #                     #
+#                     #                     #                     #                     #
+#                     #                     #                     #                     #
+#                     #                     #                     #                     #
+#                     #           # # # # # # # # # # #           #                     #
+#                     #           #         #         #           #                     #
+#                     #           #         #         #           #                     #
+#                     #           #         #         #           #                     #
+#                     #           #         #         #           #                     #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                     #           #         #         #           #                     #
+#                     #           #         #         #           #                     #
+#                     #           #         #         #           #                     #
+#                     #           #         #         #           #                     #
+#                     #           # # # # # # # # # # #           #                     #
+#                     #                     #                     #                     #
+#                     #                     #                     #                     #
+#                     #                     #                     #                     #
+#                     #                     #                     #                     #
+#                     #                     #                     #                     #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+Combien de carré(s) voyez-vous ?
+Rentre ta réponse à l'aide des chiffres présents sur le mur.
+Félicitation, tu as trouvé la bonne réponse. Le mur s'ouvre, tu peux continuer ton chemin.
+Tu y es presque réessayes.
+Dommage tu n'as pas trouvé la bonne réponse.
+~~𝐸𝑛𝑡𝑟𝑒𝑟 𝑝𝑜𝑢𝑟 𝑞𝑢𝑖𝑡𝑡𝑒𝑟~~
+~~𝐸𝑛𝑡𝑟𝑒𝑟 𝑝𝑜𝑢𝑟 𝑐𝑜𝑛𝑡𝑖𝑛𝑢𝑒𝑟~~
+Le sol se met à trembler ! Tu te retournes et vois que l'endroit où se trouvait le robot devient un mur infranchissable !
