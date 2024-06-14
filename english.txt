@@ -1,0 +1,123 @@
+Choose your name :
+ㅤ❖       ~~~       ❖
+, welcome !
+In 2077, the men and the women of the earth live in symbiosis with all technologies : intelligent robots, holographic mobile,... A era at covet at the past because is the most stable with the environment. Despite this world shapely technology superpowerful, the society found the way to recycle all and permitat the nature of grow everywhere ! The earth have never also beautyful, also green, all problem joined at the pollution are destroy.
+It's then, you earthling of this era, are with your friends human and robot in the most beautiful parc in Calais, surrounded by high trees and flowers of all colors.
+Talking and laughing with your friends, the sky seems to darken, the rain was no predicted ? Dark clouds come up your head but that no worry your friend... BOUM a lightning ! And the black complete !
+Some hours later, you wake slowly and you don't memory what happened. You raise and don't know where you are, surrounded by damaged, rusty and so dusty debris that we don’t even know what it is. High dilapidated metal walls surround you. Only lights of an apocalyptic yellow sky illuminate your path. You see various corridors and decide to explore, looking for a potential exit of this nightmare... So, you pick up a piece of coal and a rusty metal plate to draw a map on it.
+ㅤ❖       ~~~       ❖
+You are still in the labyrinth.
+You can go north(N), south(S), east(E), west(W).
+ㅤ❖       ~~~       ❖
+~During the adventure~
+You’ve been stuck for several hours, the objects scattered are calling you more and more, as if you seen them before...
+You realize that the objects look a lot like what existed in your world, that you used daily...Even an inanimate robot body !?
+You move during a long minute through the rubbles that surround you.
+Along the way you notice that the atmosphere is different that usual. But you can't decide if it's reassuring or scary.
+~Happy ending~
+you see an immaculate white light at the end of the corridor and run towards it. You feel you're running into the void, the light dazzling you...
+!! Wake up !❞ dozing in the grass of the park, your friend Eva02 (a robot) don't worry, even mocking. You apparently dozing during the picnic. All were just a dream? It gradually erases of your memory and you return to your peaceful life.
+『 End, you succeeded ☀ 』 
+ㅤ❖       ~~~       ❖
+『 Thanks for playing ! 』
+~End unfortunate~
+, you come to a dead end, you approach a robot that seems to crackle. You pick up it, this eyes illuminate and flicker, it looks frightened and it tries to speak "...help.., leave-mee-ee-ee... stoOoO-pPP!", the gleam in his eyes turn off and it becomes inert. An orde of robots amaged wake-up advancing with heaviness towards you, they encircle you "Help...us!", "Why, burn-us?", everyone pounces on you and you can't escape, shocked by what seems to be the future of your world you go completely mad and wander forever in the endless labyrinth.
+『 End, you failed ☠ 』
+ㅤ❖       ~~~       ❖
+『 Thanks for playing ! 』
+It's a wall, you fool !
+Error : command unknown !
+Well done, you got life : 
+You can goㅤ
+north (N)
+south (S)
+east (E)
+west (W)
+It's a bomb !!
+Oh no, you lose a heart...Ouch...
+There is something on the floor, sort of an old map. Funny symbols are written in some places, maybe it’s useful ! 
+.
+.
+.
+.
+.
+.
+You have just been teleported to the other end of the labyrinth !
+You find a map on the floor. You pick it up and you analyse it.
+ligne en plus
+You find yourself in front of a robot whosays you : "You look having some experience. If you win this fight I'll let you pass."
+You see a strange object on the floor, do you want pick it up ?
+Yes (y)
+No (n)
+.
+You don't pick it up and go your way.
+You're gonna fight the robot, do you want to use an object from your inventory ?
+Yes (y)
+No (n)
+You're gonna use your strength.
+Do you want to kick (1) or punch (2) him ?
+.
+Congratulations ! You beat the robot, you can keep going.
+.
+.
+.
+.
+.
+The robot just attacked you. You're losing some of your strength...
+Too bad, you just lost to a simple robot. You have to turn around.
+You have nothing in your inventory !
+You find tourself in front of a wall. A sentence is written on it...It's enigma...You have to solve it to pass...
+A father and his son are together 36 years old.
+Knowing that the father is 30 years older than his son, how old is his son ?
+Enter your answer using the numbers on the wall.
+You found the good answer ! The wall is opening, you can go your way.
+The wall isn't opening...You found the wrong answer. Turn around for find another way.
+Oh no, you lost a heart...
+You pick up the object and notice it's a lightsaber.
+You pick up the object and notice it's a knife.
+You pick up the object and notice it's a laser gun.
+/ knife (K) / 
+/ laser gun (G) /
+/ lightsaber (L) /
+Inventory :
+Error : Object not found !
+『 You are dead ☠ 』
+You are still alive.
+Do you want test again.
+yes (Y)
+no (N)
+.
+You didn’t succeed ! the wall explodes ! You lose a life !
+BOUM !!! What just happened ?? The object you just recovered was a bomb that just exploded.
+You find yourself in front of a wall. A draw is drawed on it, them come nearer you remark a sentence is write underneath :
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                     #                     #                     #                     #
+#                     #                     #                     #                     #
+#                     #                     #                     #                     #
+#                     #                     #                     #                     #
+#                     #                     #                     #                     #
+#                     #           # # # # # # # # # # #           #                     #
+#                     #           #         #         #           #                     #
+#                     #           #         #         #           #                     #
+#                     #           #         #         #           #                     #
+#                     #           #         #         #           #                     #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                     #           #         #         #           #                     #
+#                     #           #         #         #           #                     #
+#                     #           #         #         #           #                     #
+#                     #           #         #         #           #                     #
+#                     #           # # # # # # # # # # #           #                     #
+#                     #                     #                     #                     #
+#                     #                     #                     #                     #
+#                     #                     #                     #                     #
+#                     #                     #                     #                     #
+#                     #                     #                     #                     #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+How many square you saw ?
+Enter you answer using the nombers in the wall.
+Well done, you find the good answer. The wall open, you continue you way.
+You almost tried again.
+What a shame, you didn’t find the right answer.
+~~𝐸𝑛𝑡𝑒𝑟 𝑡𝑜 𝑞𝑢𝑖𝑡~~
+~~𝐸𝑛𝑡𝑒𝑟 𝑡𝑜 𝑐𝑜𝑛𝑡𝑖𝑛𝑢𝑒~~
+The ground starts to shake! You turn around and see that the place where the robot was becomes an impassable wall!
