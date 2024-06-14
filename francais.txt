@@ -1,7 +1,7 @@
 Choisis ton nom :
 ㅤ❖       ~~~       ❖
 , bienvenue !
-En 2077, les hommes et les femmes de la Terre vivent en symbiose avec toutes technologies : robots intelligents, portables holographiques, ... Une ère à envier au passé puisqu'elle est la plus équilibrée avec l'environnement, malgré ce monde fait de technologies surpuissantes, la société a trouvé le moyen de recycler tout et permet à la nature de pousser partout ! La Terre n'a jamais été aussi belle, aussi verte, tous les problèmes liés à la pollution ont été réduit à néant. 
+En 2077, les hommes et les femmes de la Terre vivent en symbiose avec toutes technologies : robots intelligents, portables holographiques, ... Une ère à envier au passé puisqu'elle est la plus équilibrée avec l'environnement, malgré ce monde fait de technologies surpuissantes, la société a trouvé le moyen de recycler tout et permet à la nature de pousser partout ! La Terre n'a jamais été aussi belle, aussi verte, tous les problèmes liés à la pollution ont été réduits à néant. 
 C'est alors, que toi, terrien(ne) de cette ère, tu es avec tes amis humains et robots dans le plus beau parc de Calais, entouré de hauts arbres et de fleurs de toutes couleurs.
 Discutant et riant, le ciel semble s'assombrir, il n'avait pas prévu de pluie ? Des nuages noirs s'activent au dessus de ta tête mais cela ne semble pas inquiéter tes amis...BOUM un éclair ! Puis, le noir total, est-il tombé sur ta tête ?
 Quelques heures plus tard, tu te réveilles lentement, ne te souvenant pas de ce qu'il s'est passé seulement que tu riais dans un parc. Tu te relèves et ne sais pas où tu es, entouré de débris abîmés, rouillés et tellement poussiéreux qu'on ne sait même plus ce que c'est. De hauts murs métalliques délabrés t'entourent. Seules les lumières d'un ciel jaune apocalyptique éclairent à peine ton chemin. Tu vois différents couloirs et décides d'explorer ce lieu, cherchant une potentielle sortie à ce cauchemar.
@@ -12,10 +12,10 @@ Tu es toujours dans le labyrinthe.
 ~Durant l'aventure~
 Cela fait plusieurs heures que tu es coincé, les objets éparpillés t'interpellent de plus en plus, comme si tu les avais déjà vu...
 Tu te rends compte que les objets ressemblent fortement à ceux qui existaient dans ton monde, que tu utilisais au quotidien...Même un corps de robot inanimé ?!
-Tu avances pendant environ une minute à travers tout ces décombres qui t'entourent.
+Tu avances pendant environ une minute à travers tous ces décombres qui t'entourent.
 Le long du chemin tu remarques que l’atmosphère est différente de celle de d'habitude. Mais tu n’arrives pas à déterminer si c'est rassurant ou angoissant.
 ~Fin heureuse~
- une lumière d'un blanc immaculé se trouve au fond de ce couloir ! Tu cours vers elle. Tu as l'impression de courir dans un vide total, la lumière t'éblouit trop...
+ Une lumière d'un blanc immaculé se trouve au fond de ce couloir ! Tu cours vers elle. Tu as l'impression de courir dans un vide total, la lumière t'éblouit trop...
  !! Réveille toi !❞ Assoupi dans l'herbe du parc, ton ami Eva02 (robot) n'a pas l'air inquiète, plutôt moqueuse même. Tu t'es apparemment endormi lors du pique-nique. Tout ceci n'était alors qu'un rêve ? Il s'efface de ta mémoire peu à peu et ta vie paisible reprend son cours.
 『 Fin, tu as réussi ☀ 』
 ㅤ❖       ~~~       ❖
@@ -34,7 +34,7 @@ au sud (S)
 à l'est (E)
 à l'ouest (O)
 C'est une bombe !!
-Oh nion, tu perds un coeur...Aïe...
+Oh non, tu perds un coeur...Aïe...
 Il y a quelque chose sur le sol, une sorte de vieille carte. De drôles de symboles y sont inscrits à certains endroits, cela peut-être utile !
 .
 .
@@ -55,7 +55,7 @@ Tu vas te battre contre le robot, souhaites-tu utiliser un objet de ton inventai
 oui (O)
 non (N)
 Tu vas te battre à l'aide de ta force.
-Souhaites-tu lui donné un coup de pied (1) ou lui donnée un coup de poing (2) ?
+Souhaites-tu lui donner un coup de pied (1) ou lui donner un coup de poing (2) ?
 .
 Bravo tu as battu le robot, tu peux continuer ton chemin.
 .
@@ -63,7 +63,7 @@ Bravo tu as battu le robot, tu peux continuer ton chemin.
 .
 .
 .
-Le robot vient de t'attaquer. Tu viens de perdre de un peu de ta force.
+Le robot vient de t'attaquer. Tu viens de perdre un peu de ta force.
 Dommage, tu viens de perdre contre un simple robot. Continue ton chemin.
 Tu n'as pas d'objet dans ton inventaire.
 Tu te retrouves face à un mur. Une phrase est écrite dessus...c'est une énigme...il faut que tu la résolves pour passer...
